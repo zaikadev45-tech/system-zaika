@@ -1,6 +1,7 @@
-id=sys_zai
-name=SYSTEM HACKER
-version=v2
+id=system_zaika
+name=System Zaika
+version=v1.0
 versionCode=1
-author=zaika
-description=Sistema com SONS Novos e mudança nas configurações Wi-fi
+author=zaikadev45-tech
+description=Adiciona áudios personalizados e otimizações no sistema
+updateJson=https://raw.githubusercontent.com/zaikadev45-tech/system-zaika/main/update.json
