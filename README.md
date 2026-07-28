@@ -3,4 +3,3 @@
 
 ### Celulares Testados:
 - Moto G7 Power
-- Moto G8 play

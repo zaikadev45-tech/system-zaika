@@ -1,6 +1,6 @@
 dalvik.vm.minidebuginfo=false
 dalvik.vm.dex2oat-minidebuginfo=false
-hwui.render_dirty_regions=false
-
+hwui.render_dirty_regions=true
+persist.sys.use_dithering=0
 ro.logd.size.stats=false
 
